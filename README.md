@@ -3,7 +3,7 @@ This repository contains the links to the Medium Articles written by me on topic
 
 
 ## Feature Extraction & Stock Price Prediction: Streamlit Application
-Medium Article - [Feature Extraction & Stock Prediction: Streamlit Web App](https://medium.com/@nikhilkohli1992/extracting-features-for-stock-prediction-streamlit-based-application-a97afc55d926) 
+[Feature Extraction & Stock Prediction: Streamlit Web App](https://medium.com/@nikhilkohli1992/extracting-features-for-stock-prediction-streamlit-based-application-a97afc55d926) 
 
 Try out Streamlit based Web app - [Streamlit Web Application](https://stock-prediction-dashboard.herokuapp.com/)
 
