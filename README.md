@@ -12,4 +12,4 @@ Try out Streamlit based Web app - [Streamlit Web Application](https://stock-pred
 
 ## Multi-Armed Bandit: Bayesian A/B Testing
 Medium Article - 
-Code - 
+Code - [Bayesian A/B testing in Python](https://github.com/Nikhilkohli1/Multi-Armed-bandit-Bayesian-A-B-Testing)
