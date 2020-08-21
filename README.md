@@ -13,3 +13,6 @@ Try out Streamlit based Web app - [Streamlit Web Application](https://stock-pred
 ## Multi-Armed Bandit: Bayesian A/B Testing
 Medium Article - 
 Code - [Bayesian A/B testing in Python](https://github.com/Nikhilkohli1/Multi-Armed-bandit-Bayesian-A-B-Testing)
+
+## Kaggle Dataset - US Stock Market Data & Extracted Technical Indicators (for all Nasdaq-100 Stocks) 
+https://www.kaggle.com/nikhilkohli/us-stock-market-data-60-extracted-features
